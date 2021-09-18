@@ -73,12 +73,13 @@ p {
 
     .avatar {
         //used for profile image
-        max-width: 50%;
+        max-width: 80%;
         object-fit: contain;
         margin-bottom: 15px;
-        border: 0px solid #fff;
-        border-radius: 10%;
-        // box-shadow: 1px 3px 3px rgba(255, 255, 255, 1);
+        aspect-ratio: 1;
+        border: 2px solid #fff;
+        border-radius: 100%;
+        box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.7);
     }
     .contact-list {
         .fas, .fab, .far {
