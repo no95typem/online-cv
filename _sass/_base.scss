@@ -74,9 +74,10 @@ p {
     .avatar {
         //used for profile image
         max-width: 100px;
+        object-fit: contain;
         margin-bottom: 15px;
         border: 0px solid #fff;
-        border-radius: 100%;
+        // border-radius: 100%;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
     .contact-list {
@@ -164,15 +165,15 @@ p {
         color: darken($theme-color, 15%);
         position: relative;
         margin-top: 0;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     .section {
-        margin-bottom: 60px;
+        margin-bottom: 30px;
     }
 
     .experiences-section, .educations-section {
         .item {
-            margin-bottom: 30px;
+            margin-bottom: 10px;
         }
     }
     .upper-row {
@@ -227,10 +228,10 @@ p {
     }
     .publications-section {
         .intro {
-            margin-bottom: 30px;
+            margin-bottom: 10px;
         }
         .item {
-            margin-bottom: 15px;
+            margin-bottom: 10px;
         }
     }
 }
@@ -238,7 +239,7 @@ p {
 
 .skillset {
     .item {
-        margin-bottom: 15px;
+        margin-bottom: 10px;
         overflow: hidden;
     }
     .level-title {
