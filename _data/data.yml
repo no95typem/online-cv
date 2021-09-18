@@ -57,11 +57,11 @@ projects:
         link: "https://no95typem.github.io/async-race/#garage"
         tagline: "Another task from RS-JSFE2021Q1, just a beatiful race (REST and CRUD)"
 
-      - title: wallhaven-client (Builded with React, a task from RS-React2021Q3)
+      - title: wallhaven-client
         link: "https://rss-react-2021-q3-wallhaven.herokuapp.com/"
-        tagline: "Just a simplified client for wallhaven.cc builded with React"
+        tagline: "Just a simplified client for wallhaven.cc builded with React (a task from RS-React2021Q3)"
 
-      - title: More...
+      - title: more...
         link: "https://rolling-scopes-school.github.io/no95typem-JSFE2021Q1/"
         tagline: "You can find more my projects there"
 
