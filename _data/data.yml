@@ -37,7 +37,7 @@ education:
     - degree: Master degree in electronic instrumentation quality assurance, <br> projection and certification
       university: Samara National Research University
       time: 2017 - 2019
-    - degree: Post-graduate (09.06.01 Informatics and computer technology)
+    - degree: Post-graduate (Informatics and computer technology)
       university: Samara National Research University
       time: 2019 - Present
 experiences:
@@ -61,9 +61,9 @@ projects:
         link: "https://rss-react-2021-q3-wallhaven.herokuapp.com/"
         tagline: "Just a simplified client for wallhaven.cc builded with React (a task from RS-React2021Q3)"
 
-      - title: more...
-        link: "https://rolling-scopes-school.github.io/no95typem-JSFE2021Q1/"
-        tagline: "You can find more my projects there"
+      - title: portfolio
+        link: "https://no95typem.github.io/portfolio/"
+        tagline: "You can find more my projects on my portfolio page"
 
 publications:
     title: Publications
