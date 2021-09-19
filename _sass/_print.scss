@@ -6,7 +6,9 @@
    //  body {
    //     font-size: 12pt;
    //  }
-
+   .avatar {
+      border: 2px solid #000;
+   }
     img.avatar {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
@@ -32,8 +34,8 @@
     }
 
     .skillset .level-bar-inner {
-      //  background-color: black !important;
-      //  -webkit-print-color-adjust: exact; 
+       background-color: black !important;
+       -webkit-print-color-adjust: exact; 
     }
 
 }
