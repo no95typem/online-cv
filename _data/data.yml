@@ -49,6 +49,10 @@ projects:
     intro: >
       At the moment, all my projects are educational and have been done in solo.
     assignments:
+      - title: Pointing (scrum or planning) poker
+        link: "https://no95typem.github.io/pp"
+        tagline: "builded with React, Chakra UI (a team task from RSS-REACT2021Q3)"
+
       - title: codejam-chess
         link: "https://rolling-scopes-school.github.io/no95typem-JSFE2021Q1/codejam-chess/dist/client/#lobby"
         tagline: "Online(offline) multiplayer chess (a task from RS-JSFE2021Q1)"
