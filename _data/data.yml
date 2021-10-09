@@ -82,13 +82,19 @@ skills:
 
     toolset:
       - name: Javascript
-        level: 70%
+        level: 90%
+
+      - name: Typescript
+        level: 75%
 
       - name: HTML & CSS
-        level: 70%
+        level: 75%
 
       - name: React
-        level: 70%
+        level: 80%
+
+      - name: NodeJS
+        level: 30%
 
       - name: Webpack
         level: 20%
